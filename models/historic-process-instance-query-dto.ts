@@ -11,7 +11,6 @@
  * https://github.com/swagger-api/swagger-codegen.git
  * Do not edit the class manually.
  */
-import { HistoricProcessInstanceQueryDto } from './historic-process-instance-query-dto';
 import { HistoricProcessInstanceQueryDtoSorting } from './historic-process-instance-query-dto-sorting';
 import { VariableQueryParameterDto } from './variable-query-parameter-dto';
 /**

@@ -11,7 +11,6 @@
  * https://github.com/swagger-api/swagger-codegen.git
  * Do not edit the class manually.
  */
-import { ActivityInstanceDto } from './activity-instance-dto';
 import { ActivityInstanceIncidentDto } from './activity-instance-incident-dto';
 import { TransitionInstanceDto } from './transition-instance-dto';
 /**

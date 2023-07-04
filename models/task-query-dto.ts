@@ -11,7 +11,6 @@
  * https://github.com/swagger-api/swagger-codegen.git
  * Do not edit the class manually.
  */
-import { TaskQueryDto } from './task-query-dto';
 import { TaskQueryDtoSorting } from './task-query-dto-sorting';
 import { VariableQueryParameterDto } from './variable-query-parameter-dto';
 /**

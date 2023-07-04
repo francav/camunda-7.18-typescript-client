@@ -11,7 +11,6 @@
  * https://github.com/swagger-api/swagger-codegen.git
  * Do not edit the class manually.
  */
-import { HistoricTaskInstanceQueryDto } from './historic-task-instance-query-dto';
 import { HistoricTaskInstanceQueryDtoSorting } from './historic-task-instance-query-dto-sorting';
 import { VariableQueryParameterDto } from './variable-query-parameter-dto';
 /**
